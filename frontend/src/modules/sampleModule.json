@@ -1,0 +1,93 @@
+{
+  "id": "sample-module",
+  "title": "Introduction to Programming",
+  "description": "A beginner-friendly module to introduce the basics of programming.",
+  "subject": "Computer Science",
+  "level": "beginner",
+  "estimatedDuration": 60,
+  "learningObjectives": [
+    {
+      "id": "obj-1",
+      "title": "Understand basic programming concepts",
+      "description": "Recognize and understand basic programming concepts like variables, loops, and functions.",
+      "completed": false
+    },
+    {
+      "id": "obj-2",
+      "title": "Write simple programs",
+      "description": "Write and understand simple programs using a programming language.",
+      "completed": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "title": "Introduction to Variables",
+      "description": "Learn what variables are and how to use them.",
+      "order": 1,
+      "content": [
+        {
+          "id": "cb-1",
+          "type": "text",
+          "content": "Variables are like labeled boxes that help us store information."
+        },
+        {
+          "id": "cb-2",
+          "type": "code",
+          "content": "let a = 5;\nconsole.log(a);"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q-1",
+          "type": "multiple-choice",
+          "question": "What is a variable?",
+          "options": ["A container for storing data", "A random number", "An operating system", "None of the above"],
+          "correctAnswer": "A container for storing data",
+          "explanation": "Variables hold data values and represent them with a symbolic name.",
+          "points": 10,
+          "difficulty": "easy"
+        }
+      ],
+      "estimatedTime": 10,
+      "isRequired": true
+    },
+    {
+      "id": "sec-2",
+      "title": "Introduction to Loops",
+      "description": "Learn what loops are and how to use them to repeat actions.",
+      "order": 2,
+      "content": [
+        {
+          "id": "cb-3",
+          "type": "text",
+          "content": "Loops help us repeat actions without writing code multiple times."
+        },
+        {
+          "id": "cb-4",
+          "type": "code",
+          "content": "for (let i = 0; i < 5; i++) {\n  console.log(i);\n}"
+        }
+      ],
+      "estimatedTime": 20,
+      "isRequired": true
+    }
+  ],
+  "finalAssessment": [],
+  "resources": [
+    {
+      "id": "res-1",
+      "title": "Variables PDF",
+      "type": "pdf",
+      "url": "assets/docs/variables.pdf",
+      "description": "Detailed guide on variables.",
+      "size": "1MB"
+    }
+  ],
+  "tags": ["programming", "beginner", "variables", "loops"],
+  "createdBy": "Instructor A",
+  "createdAt": "2025-07-12T00:00:00Z",
+  "updatedAt": "2025-07-12T00:00:00Z",
+  "isPublished": false
+}
+
