@@ -5,39 +5,39 @@ A comprehensive Learning Management System built with Spring Boot backend and Re
 ## Features
 
 ### Instructor Features
-- ✅ Create and manage courses
-- ✅ Upload course content and materials
-- ✅ Create different learning paths
-- ✅ Track individual and group student progress
-- ✅ View analytics with filters (date, month, year, location, city, country)
-- ✅ Manage course enrollments
-- ✅ Monitor student performance
+- Create and manage courses
+- Upload course content and materials
+- Create different learning paths
+- Track individual and group student progress
+- View analytics with filters (date, month, year, location, city, country)
+- Manage course enrollments
+- Monitor student performance
 
 ### Student Features
-- ✅ Browse and search available courses
-- ✅ Register and enroll in courses
-- ✅ Access course materials
-- ✅ Save progress and resume later
-- ✅ Track learning progress
-- ✅ View enrolled courses dashboard
+- Browse and search available courses
+- Register and enroll in courses
+- Access course materials
+- Save progress and resume later
+- Track learning progress
+- View enrolled courses dashboard
 
 ### Authentication & Security
-- ✅ Google OAuth2 integration
-- ✅ Role-based access control (Instructor/Student)
-- ✅ Secure API endpoints
-- ✅ Session management
+- Google OAuth2 integration
+- Role-based access control (Instructor/Student)
+- Secure API endpoints
+- Session management
 
 ### Technical Features
-- ✅ Comprehensive exception handling
-- ✅ Standard HTTP error codes
-- ✅ Input validation (frontend & backend)
-- ✅ Unit tests with 80%+ code coverage
-- ✅ API documentation with Swagger/OpenAPI
-- ✅ Externalized configuration
-- ✅ Database-driven user management
-- ✅ RESTful API design
-- ✅ Static code analysis ready
-- ✅ Reusable and extensible architecture
+- Comprehensive exception handling
+- Standard HTTP error codes
+- Input validation (frontend & backend)
+- Unit tests with 80%+ code coverage
+- API documentation with Swagger/OpenAPI
+- Externalized configuration
+- Database-driven user management
+- RESTful API design
+- Static code analysis ready
+- Reusable and extensible architecture
 
 ## Technology Stack
 
@@ -307,5 +307,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - React team for the powerful UI library
 - Material-UI for beautiful components
 - Google for OAuth2 integration
-#   l m s - p r o j e c t  
+#   l m s - p r o j e c t 
+ 
  
